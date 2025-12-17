@@ -30,6 +30,7 @@ Simply run the script inside any directory you want to organize.
 Example:
 Before:
 📁 Downloads
+
 ├── app.exe
 
 ├── brave.exe
@@ -57,6 +58,7 @@ Before:
 
 After running the script:
 📁 Downloads
+
 ├── exe/
 
 │ └── app.exe
