@@ -58,19 +58,34 @@ Before:
 After running the script:
 📁 Downloads
 ├── exe/
+
 │ └── app.exe
+
   └── brave.exe
+  
   └── xyz.exe
+  
 ├── png/
+
 │ └── image.png
+
 │ └── x.png
+
 │ └── z.png
+
 ├── jpg/
+
 │ └── photo1.jpg
+
 │ └── photo2.jpg
+
 │ └── photo3.jpg
+
 ├── txt/
+
   └── notes.txt
+  
   └── study.txt
+  
   └── frontend.txt
 
