@@ -31,17 +31,29 @@ Example:
 Before:
 📁 Downloads
 ├── app.exe
+
 ├── brave.exe
+
 ├── xyz.exe
+
 ├── image.png
+
 ├── x.png
+
 ├── z.png
+
 ├── photo1.jpg
+
 ├── photo2.jpg
+
 ├── photo3.jpg
+
 ├── notes.txt
+
 ├── study.txt
+
 ├── frontend.txt
+
 
 After running the script:
 📁 Downloads
