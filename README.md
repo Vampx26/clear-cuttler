@@ -63,9 +63,9 @@ After running the script:
 
 │ └── app.exe
 
-  └── brave.exe
+│  └── brave.exe
   
-  └── xyz.exe
+│  └── xyz.exe
   
 ├── png/
 
@@ -85,9 +85,9 @@ After running the script:
 
 ├── txt/
 
-  └── notes.txt
+│  └── notes.txt
   
-  └── study.txt
+│  └── study.txt
   
-  └── frontend.txt
+│  └── frontend.txt
 
